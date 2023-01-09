@@ -1,5 +1,5 @@
 ---
-title: "A Visual Survey of Data Augmentation in NLP"
+title: "Data Augmentation in NLP"
 date: 2020-05-16T22:22:30-04:00
 last_modified_at: 2020-10-08T00:00:00-00:00
 categories:
@@ -249,16 +249,6 @@ Libraries like [nlpaug](https://github.com/makcedward/nlpaug) and [textattack](h
 ## Conclusion  
 My takeaway from the literature review is that many of these NLP augmentation methods are very task-specific and their impact on performance has been studied for some particular use-cases only. It would be an interesting research to systematically compare these methods and analyze their impact on performance for many tasks.    
 
-## Citation Info (BibTex)
-If you found this blog post useful, please consider citing it as:
-```
-@misc{chaudhary2020nlpaugment,
-  title   = {A Visual Survey of Data Augmentation in NLP},
-  author  = {Amit Chaudhary},
-  year    = 2020,
-  note    = {\url{https://amitness.com/2020/05/data-augmentation-for-nlp}
-}
-```
 
 ## References
 - Qizhe Xie, et al. ["Unsupervised Data Augmentation for Consistency Training"](https://arxiv.org/abs/1904.12848)  
