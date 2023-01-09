@@ -1,7 +1,5 @@
 ---
 title: "Data Augmentation in NLP"
-date: 2020-05-16T22:22:30-04:00
-last_modified_at: 2020-10-08T00:00:00-00:00
 categories:
   - nlp
   - data augmentation
